@@ -1,4 +1,3 @@
-
 apiVersion: v2
 name: demo-app
 description: Simple nginx demo
